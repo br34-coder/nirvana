@@ -1,2 +1,4 @@
 #Ignore some files
 .md~
+src/__pycache__
+test/__pycache__
